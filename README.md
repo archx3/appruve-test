@@ -1,4 +1,4 @@
-# fp-web
+# Appruve Frontend test
 
 ## Project setup
 ```
